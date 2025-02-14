@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, this is Gaurab Khanal</h1>
-<h3 align="center">A second year CS student from Nepal who exploring different Technologies.</h3>
+<h3 align="center">A third year CS student from Nepal who exploring different Technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurab-khanal&label=Profile%20views&color=0e75b6&style=flat" alt="gaurab-khanal" /> </p>
 
